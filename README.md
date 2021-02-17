@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthBibekar
 - 👀 I’m interested in various topics from evolutionary biology and bioinformatics to biophysics
-- 🌱 I’m currently a BS-MS student at IISER Kolkata
+- 🌱 Undergraduate at IISER Kolkata
 - 📫 Reach me at bibekarparth24@gmail.com
 
 <!---
