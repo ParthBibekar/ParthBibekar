@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ParthBibekar
-- 👀 I’m interested in various topics from evolutionary biology and bioinformatics to biophysics
+- 👋 Hi, I’m Parth Bibekar
 - 🌱 Undergraduate at IISER Kolkata
+- 👀 I’m interested mostly in computational biophysics and related topics
 - 📫 Reach me at bibekarparth24@gmail.com
 
 <!---
