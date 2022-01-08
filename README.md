@@ -27,6 +27,8 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="CSS3" width="26px" src="https://imagej.net/media/icons/imagej.png" />][imagej]
+[<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/en/f/f6/Origin_icon.png" />][origin]
 
 <br />
 
@@ -47,6 +49,9 @@
 [linux]: https://www.linux.org/
 [gnuplot]: http://www.gnuplot.info/
 [lichess]: https://lichess.org/@/Parth_Bibekar
+[imagej]: https://imagej.net/software/imagej/
+[origin]: https://www.originlab.com/
+
 
 <!---
 ParthBibekar/ParthBibekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
