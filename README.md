@@ -32,7 +32,6 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ParthBibekar=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [gmail]: mailto:bibekarparth24@gmail.com
 [twitter]: https://twitter.com/BibekarParth
