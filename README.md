@@ -23,7 +23,7 @@
 [<img align="left" alt="GROMACS" width="116px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/GROMACS_logo.png" />][gromacs]
 [<img align="left" alt="PLUMED" width="66px" src="https://www.plumed.org/doc-v2.6/developer-doc/html/logo.png" />][plumed]
 [<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
-[<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />][aws]
+[<img align="left" alt="AWS" width="32px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />][aws]
 [<img align="left" alt="Gnuplot" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gnuplot_icon_130576.png" />][gnuplot]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
