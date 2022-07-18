@@ -10,7 +10,7 @@
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Lichess" width="22px" src="https://upload.wikimedia.org/wikipedia/en/6/6d/Lichess_Logo_2019.png" />][lichess]
+[<img align="left" alt="codeSTACKr | Lichess" width="22px" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png" />][lichess]
 
 <br />
 
