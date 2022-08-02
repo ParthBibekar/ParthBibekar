@@ -8,6 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Lichess" width="22px" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png" />][lichess]
@@ -39,6 +40,7 @@
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParthBibekar&show_icons=true&theme=cobalt)
 
 [gmail]: mailto:bibekarparth24@gmail.com
+[linkedin]: https://www.linkedin.com/in/parth-bibekar-a8a2a0247/
 [twitter]: https://twitter.com/BibekarParth
 [instagram]: https://www.instagram.com/parthbibekar/
 [python]: https://www.python.org/
