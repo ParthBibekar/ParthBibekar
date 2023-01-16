@@ -37,7 +37,7 @@
 
 <br />
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParthBibekar&show_icons=true&theme=cobalt)
+<!-- ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParthBibekar&show_icons=true&theme=cobalt) -->
 
 [gmail]: mailto:bibekarparth24@gmail.com
 [linkedin]: https://www.linkedin.com/in/parth-bibekar-a8a2a0247/
