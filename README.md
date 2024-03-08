@@ -4,7 +4,7 @@
 
 - 🌱 Undergraduate at IISER Kolkata
 - 👀 I’m mostly interested in computational biophysics and related topics
-
+<!---
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
@@ -59,6 +59,7 @@
 [origin]: https://www.originlab.com/
 [aws]: https://aws.amazon.com/
 [gcc]: https://console.cloud.google.com/
+
 
 <!---
 ParthBibekar/ParthBibekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
